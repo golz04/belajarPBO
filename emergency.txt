@@ -23,4 +23,4 @@ GITHUB DESKTOP
 - Easy Commit : memudahkan proses commit dan menambahkan author
 - Branching : pindah branch dan melihat status CI
 - Syntax Highlight : perubahan terlihat jelas dengan syntax highlighting
-
+Gavriel Ganteng
